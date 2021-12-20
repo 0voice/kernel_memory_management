@@ -34,6 +34,37 @@
 
 ## 📀 视频
 
+[《内存管理》---Slab | 内存映射 | kmalloc | vmalloc | 内核源码 | MM | brk](https://www.bilibili.com/video/BV1fb4y1S7UY/)
+
+[90分钟了解 Linux内存架构--- numa的优势 | slab的实现 | vmalloc的原理](https://www.bilibili.com/video/BV1C64y1v7WW/)
+
+[内存分配与回收机制---伙伴算法|slab分析|内存映射|进程虚拟空间|请求调页|写时复制](https://www.bilibili.com/video/BV1mi4y1A7Gr/)
+
+[3种内存泄漏的解决方案--hook|malloc函数|free函数|避免内存泄漏](https://www.bilibili.com/video/BV11K4y1R7xz/)
+
+[剖析Linux内核MMU机制---页表原理|高速缓存|TLB工作原理|内存映射|不连续页原理](https://www.bilibili.com/video/BV1xy4y1W7a6/)
+
+[虚拟内存空间之VMA实战操作](https://www.bilibili.com/video/BV1i44y1r7yL/)
+
+[Linux内核内存管理(一)---内存映射|空间管理|ARM32/64页表|slab分配器|malloc](https://www.bilibili.com/video/BV1EQ4y1d76X/)
+
+[Linux内核内存管理(二)---malloc|mmap|反向映射|缺页中断处理|回收页面|KSM实现|内存漏洞|匿名页面](https://www.bilibili.com/video/BV1Qy4y1g7mY/)
+
+[Linux内核内存管理(三)---Slab机制架构|物理页面|管理区|分配/释放页面](https://www.bilibili.com/video/BV1NU4y1j7HR/)
+
+[Linux内核之内存页回收---LRU及反向映射？如何异步回收、直接回收？以及回收slab缓存](https://www.bilibili.com/video/BV1Df4y1b7BM/)
+
+[Linux内核内存管理专题训练营（一）---伙伴系统|slab分配器|vmalloc()|malloc()|TLB|虚拟内存|缺页机制](https://www.bilibili.com/video/BV1Z64y1671b/)
+
+[Linux内核内存管理专题训练营（二）---伙伴系统|slab分配器|vmalloc()|malloc()|TLB|虚拟内存|缺页机制](https://www.bilibili.com/video/BV1354y1G7E9/)
+
+[Linux内核精讲之内存管理---物理内存组织|内核引导|内存映射](https://www.bilibili.com/video/BV1MK4y1M7LR/)
+
+[Linux物理内存页面分配---kmalloc|slab/slub|页框分配机制](https://www.bilibili.com/video/BV1QM4y1K75H/)
+
+
+
+
 ## 📃 论文
 
 ## 🌌 内存池相关
