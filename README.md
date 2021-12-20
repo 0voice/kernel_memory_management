@@ -32,6 +32,9 @@
 
 [内存管理之分页.md](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B9%8B%E5%88%86%E9%A1%B5.md)
 
+[内存管理之内核空间和用户空间](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B9%8B%E5%86%85%E6%A0%B8%E7%A9%BA%E9%97%B4%E5%92%8C%E7%94%A8%E6%88%B7%E7%A9%BA%E9%97%B4.md)
+
+
 ## 📀 视频
 
 [Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈](https://ke.qq.com/course/4032547?tuin=c47fb40b&taid=12394910548068387)
@@ -63,6 +66,8 @@
 [Linux内核精讲之内存管理---物理内存组织|内核引导|内存映射](https://www.bilibili.com/video/BV1MK4y1M7LR/)
 
 [Linux物理内存页面分配---kmalloc|slab/slub|页框分配机制](https://www.bilibili.com/video/BV1QM4y1K75H/)
+
+## ❓ 面试题
 
 
 
