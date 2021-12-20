@@ -24,6 +24,14 @@
 
 [Linux中的内存管理机制.md](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Linux%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.md)
 
+[C++中内存管理之new、delete](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/C%2B%2B%E4%B8%AD%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B9%8Bnew%E3%80%81delete.md)
+
+[malloc和free的实现原理解析](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/malloc%E5%92%8Cfree%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
+
+[常用寄存器总结](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%B8%B8%E7%94%A8%E5%AF%84%E5%AD%98%E5%99%A8%E6%80%BB%E7%BB%93.md)
+
+[内存碎片之外部碎片与内部碎片](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%A2%8E%E7%89%87%E4%B9%8B%E5%A4%96%E9%83%A8%E7%A2%8E%E7%89%87%E4%B8%8E%E5%86%85%E9%83%A8%E7%A2%8E%E7%89%87.md)
+
 [Linux虚拟内存管理，MMU机制，原来如此.md](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Linux%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%8CMMU%E6%9C%BA%E5%88%B6%EF%BC%8C%E5%8E%9F%E6%9D%A5%E5%A6%82%E6%AD%A4.md)
 
 [一文了解，Linux内存管理，malloc、free 实现原理.md](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%EF%BC%8CLinux%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%8Cmalloc%E3%80%81free%20%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
