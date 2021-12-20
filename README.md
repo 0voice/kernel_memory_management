@@ -34,7 +34,7 @@
 
 ## 📀 视频
 
-[《内存管理》---Slab | 内存映射 | kmalloc | vmalloc | 内核源码 | MM | brk](https://www.bilibili.com/video/BV1fb4y1S7UY/)
+[内存管理 ---Slab | 内存映射 | kmalloc | vmalloc | 内核源码 | MM | brk](https://www.bilibili.com/video/BV1fb4y1S7UY/)
 
 [90分钟了解 Linux内存架构--- numa的优势 | slab的实现 | vmalloc的原理](https://www.bilibili.com/video/BV1C64y1v7WW/)
 
