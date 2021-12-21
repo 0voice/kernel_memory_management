@@ -1,4 +1,4 @@
-> inux用户态下的堆溢出利用即是对ptmalloc2安全机制的绕过，只有深入的了解ptmalloc，才能进行精准的堆溢出攻击
+> Linux用户态下的堆溢出利用即是对ptmalloc2安全机制的绕过，只有深入的了解ptmalloc，才能进行精准的堆溢出攻击
 
 ## malloc
 
