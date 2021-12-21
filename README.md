@@ -64,6 +64,22 @@
 
 [内存管理系列二十二：内存回收核心流程](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%B3%BB%E5%88%97%E4%BA%8C%E5%8D%81%E4%BA%8C%EF%BC%9A%E5%86%85%E5%AD%98%E5%9B%9E%E6%94%B6%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B.md)
 
+----------------英文文章鉴赏------------------
+
+[Linux: large-memory management histories](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Linux:%20large-memory%20management%20histories.md)
+
+[Looking at kmalloc() and the SLUB Memory Allocator](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Looking%20at%20kmalloc()%20and%20the%20SLUB%20Memory%20Allocator.md)
+
+[Memory Management in OS: Contiguous, Swapping, Fragmentation](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Memory%20Management%20in%20OS:%20Contiguous%2C%20Swapping%2C%20Fragmentation.md)
+
+[Memory Management in Operating System](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Memory%20Management%20in%20Operating%20System.md)
+
+[Operating System - Memory Management](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Operating%20System%20-%20Memory%20Management.md)
+
+[Virtual Memory in OS: What is, Demand Paging, Advantages](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Virtual%20Memory%20in%20OS:%20What%20is%2C%20Demand%20Paging%2C%20Advantages.md)
+
+
+
 ----------------分割线------------------
 
 [Linux 内核(5.4.81)—内存管理模块源码分析](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/linux%20%E5%86%85%E6%A0%B8(5.4.81)%E2%80%94%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%A8%A1%E5%9D%97%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
