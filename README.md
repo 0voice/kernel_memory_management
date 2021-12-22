@@ -387,6 +387,9 @@
 
 ## 🍺 内存泄露
 
+- [5 useful tools to detect memory leaks with examples](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/5%20useful%20tools%20to%20detect%20memory%20leaks%20with%20examples.md)
+- [内存泄漏的在线排查](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E5%9C%A8%E7%BA%BF%E6%8E%92%E6%9F%A5.md)
+
 ## 🛠 内存管理工具
 
 
