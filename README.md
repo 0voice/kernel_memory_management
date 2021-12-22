@@ -18,7 +18,7 @@
 
 [内存管理（五）：其他工程问题以及调优](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E5%85%B6%E4%BB%96%E5%B7%A5%E7%A8%8B%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E8%B0%83%E4%BC%98.md)
 
-----------------内存管理系列文章------------------
+---------内存管理系列文章---------
 
 [内存管理系列一：启动简介](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%B3%BB%E5%88%97%E4%B8%80%EF%BC%9A%E5%90%AF%E5%8A%A8%E7%AE%80%E4%BB%8B.md)
 
@@ -64,7 +64,7 @@
 
 [内存管理系列二十二：内存回收核心流程](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%B3%BB%E5%88%97%E4%BA%8C%E5%8D%81%E4%BA%8C%EF%BC%9A%E5%86%85%E5%AD%98%E5%9B%9E%E6%94%B6%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B.md)
 
-----------------英文文章鉴赏------------------
+----------英文文章鉴赏----------
 
 [Linux: large-memory management histories](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Linux:%20large-memory%20management%20histories.md)
 
@@ -80,7 +80,7 @@
 
 
 
-----------------分割线------------------
+----------分割线----------
 
 [Linux 内核(5.4.81)—内存管理模块源码分析](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/linux%20%E5%86%85%E6%A0%B8(5.4.81)%E2%80%94%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%A8%A1%E5%9D%97%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
