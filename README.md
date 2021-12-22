@@ -18,7 +18,7 @@
 
 感谢您的支持！
 
-This REPo collects and organizes the whole network Linux kernel -- memory management module related knowledge.
+This Repo collects and organizes the whole network Linux kernel -- memory management module related knowledge.
 
 **All data comes from the Internet. The so-called take from the Internet, use for the Internet.**
 
