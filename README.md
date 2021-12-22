@@ -1,7 +1,10 @@
 # 💻 总结整理linux内核的内存管理的资料，包含论文，文章，视频，以及应用程序的内存泄露，内存池相关
 
-![内存管理](https://user-images.githubusercontent.com/87457873/146741232-cc01d5bc-595f-4bd7-a285-b0388ff29027.png)
-
+<div align=center>
+  
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/87457873/146741232-cc01d5bc-595f-4bd7-a285-b0388ff29027.png"/>
+  
+</div>
 
 
 ## 📜 文章
@@ -399,15 +402,16 @@ Valgrind发行版目前包括7个产品质量的工具:一个内存错误检测�
 
 #### 内存性能指标
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191020110333604.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
+<img width="50%" height="50%" src="https://img-blog.csdnimg.cn/20191020110333604.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70"/>
 
 #### 指标-工具映射图
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191020110347829.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
+<img width="50%" height="50%" src="https://img-blog.csdnimg.cn/20191020110347829.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70"/>
+
 
 #### 工具-指标映射图
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019102011040022.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
+<img width="50%" height="50%" src="https://img-blog.csdnimg.cn/2019102011040022.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70"/>
 
 #### 分析思路
 
