@@ -352,6 +352,11 @@
 ## 🌌 内存池相关
 
    #### 文章
+   
+   - [18张图揭秘高性能Linux服务器内存池技术是如何实现的](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/18%E5%BC%A0%E5%9B%BE%E6%8F%AD%E7%A7%98%E9%AB%98%E6%80%A7%E8%83%BDLinux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%86%85%E5%AD%98%E6%B1%A0%E6%8A%80%E6%9C%AF%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84.md)
+   - [C++ 实现高性能内存池](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/C%2B%2B%20%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD%E5%86%85%E5%AD%98%E6%B1%A0.md)
+   - [Nginx 内存池管理](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Nginx%20%E5%86%85%E5%AD%98%E6%B1%A0%E7%AE%A1%E7%90%86.md)
+   - [【性能优化】高效内存池的设计与实现](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E3%80%90%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E3%80%91%E9%AB%98%E6%95%88%E5%86%85%E5%AD%98%E6%B1%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
    #### 框架
 
