@@ -8,6 +8,32 @@
 
 <br>
 
+本repo搜集整理全网Linux内核---内存管理模块相关知识。
+
+**所有数据来源于互联网。所谓取之于互联网，用之于互联网。**
+
+如果涉及版权侵犯，请邮件至 wchao_isvip@163.com ，我们将第一时间处理。
+
+如果您对我们的项目表示赞同与支持，欢迎您 [lssues](https://github.com/0voice/learning_mind_map/issues) 我们，或者邮件 wchao_isvip@163.com 我们，更加欢迎您 [pull requests](https://github.com/0voice/learning_mind_map/pulls) 加入我们。
+
+感谢您的支持！
+
+This REPo collects and organizes the whole network Linux kernel -- memory management module related knowledge.
+
+**All data comes from the Internet. The so-called take from the Internet, use for the Internet.**
+
+If copyright infringement is involved, please email wchao_isvip@163.com and we will deal with it as soon as possible.
+
+If you agree to our project and support, welcome [lssues](https://github.com/0voice/learning_mind_map/issues), we, or email wchao_isvip@163.com us, More welcome [pull requests](https://github.com/0voice/learning_mind_map/pulls) to join us.
+
+Thank you for your support.
+
+<p align="center">
+  <a href="https://github.com/0voice/kernel_memory_management#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
+  <a href="https://www.zhihu.com/people/xiao-zhai-nu-linux"><img src="https://img.shields.io/badge/知乎-blue" alt=""></a>
+  <a href="https://space.bilibili.com/64514973"><img src="https://img.shields.io/badge/bilibili-red" alt=""></a>
+</p>
+
 - 目录
   - [@ 文章](https://github.com/0voice/kernel_memory_management#-%E6%96%87%E7%AB%A0)
   - [@ 视频](https://github.com/0voice/kernel_memory_management#-%E8%A7%86%E9%A2%91)
