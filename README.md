@@ -359,8 +359,35 @@
    - [性能优化:高效内存池的设计与实现](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E3%80%90%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E3%80%91%E9%AB%98%E6%95%88%E5%86%85%E5%AD%98%E6%B1%A0%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
    #### 框架
+   
+   - [userpro/MemoryPool](https://github.com/userpro/MemoryPool):一个极简内存池实现
+   - [DavidLiRemini/MemoryPool](https://github.com/DavidLiRemini/MemoryPool):简单有效的内存池实现
+   - [DGuco/shmqueue](https://github.com/DGuco/shmqueue):基于c++内存池,共享内存和信号量实现高速的进程间通信队列,单进程读单进程写无需加锁，多进程读多进程写用信号量集实现读写锁保证读写安全
+   - [ycsoft/pool](https://github.com/ycsoft/pool):基于ANSI C开发的内存池和线程池，性能优异
+   - [hansionz/ConcurrentMemoryPool](https://github.com/hansionz/ConcurrentMemoryPool):一个三级缓存的高并发内存池
+   - [Fang-create/memory_pool](https://github.com/Fang-create/memory_pool):内存池----仿nginx实现
+   - [CandyConfident/HighPerformanceConcurrentServer](https://github.com/CandyConfident/HighPerformanceConcurrentServer):基于C++11、部分C++14/17特性的一个高性能并发httpserver，包括日志、线程池、内存池、定时器、网络io、http、数据库连接等模块。
+   - [crspecter/ydx_slab_util](https://github.com/crspecter/ydx_slab_util):实现一个内存池，内存管理机制借鉴memcached，使用一系列链表管理不同大小的内存区块。
+   - [jixuduxing/CommLib](https://github.com/jixuduxing/CommLib):linux常用库,使用boost和标准库编写的常用库,包含线程池、内存池、通信、日志、时间处理、定时器
+   - [lrsand52m/MemoryPool](https://github.com/lrsand52m/MemoryPool):基于TLS的高并发内存池
+   - [tsreaper/my-allocator](一个简单而较为高效的 C++ Allocator，通过内存池实现):一个简单而较为高效的 C++ Allocator，通过内存池实现
+   - [lhh0461/simple_mem_pool](https://github.com/lhh0461/simple_mem_pool):简单的C++内存池模块
+   - [hardrong/concurrent-memory-pool](https://github.com/hardrong/concurrent-memory-pool):基于TCmalloc实现的内存池
+   - [ysluckly/ConcurrentMemoryPool](https://github.com/ysluckly/ConcurrentMemoryPool):基于三级缓存架构的高并发内存池
+   - [qixianghui123/memorypool](https://github.com/qixianghui123/memorypool):基于C++实现内存池技术 memorypool
+   - [lr-erics/HashIndex](https://github.com/lr-erics/HashIndex):内建内存池的内存索引结构，面向特定场景业务数据，比如在线广告业务数据
+   - [1289148370/negix-](https://github.com/1289148370/negix-):移植nginx内存池源码，实现简单的内存池类
+   - [xjhahah/MemPool](https://github.com/xjhahah/MemPool):C++项目之内存池技术
+   - [besmallw/ngx_palloc](https://github.com/besmallw/ngx_palloc):ngx源码分析——内存池
+   - [LumosN/ConcurrentMemoryPool](https://github.com/LumosN/ConcurrentMemoryPool):C++项目 | 高并发内存池
+   - [Lotu527/MemoryPool](https://github.com/Lotu527/MemoryPool):基于C++11实现的内存池
+   - [YanlinWangWang/Memory-Pool](https://github.com/YanlinWangWang/Memory-Pool):C++实现的多线程内存池
+   - [ADreamyj/Cache-Pool](https://github.com/ADreamyj/Cache-Pool):这是一个高并发的内存池项目，其主要解决程序员在申请内存时存在锁竞争以及内存碎片的问题。
 
 
 ## 🍺 内存泄露
 
 ## 🛠 内存管理工具
+
+
+
