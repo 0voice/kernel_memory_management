@@ -423,4 +423,10 @@ b. 用vmstat及pidstat查看内存变化情况，确定内存问题类型
 
 c. 详细分析，如内存分配分析、缓存/缓冲区分析、具体进程的内存分析
 
+## 联系专栏
 
+#### [Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈](https://ke.qq.com/course/4032547?flowToken=1041395)
+
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
+
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
