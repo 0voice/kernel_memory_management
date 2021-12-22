@@ -395,6 +395,8 @@
 [Valgrind](https://valgrind.org/)：Valgrind是一个用于构建动态分析工具的工具框架。有一些Valgrind工具可以自动检测许多内存管理和线程错误，并详细分析你的程序。您还可以使用Valgrind来构建新的工具。
 Valgrind发行版目前包括7个产品质量的工具:一个内存错误检测器、两个线程错误检测器、一个缓存和分支预测分析器、一个调用图生成缓存和分支预测分析器，以及两个不同的堆分析器。它还包括一个实验性的SimPoint基本块向量生成器。
 
+[AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer):Google出品的内存检测工具
+
 #### 内存性能指标
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191020110333604.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
