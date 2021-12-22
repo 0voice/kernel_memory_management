@@ -392,5 +392,24 @@
 
 ## 🛠 内存管理工具
 
+#### 内存性能指标
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191020110333604.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
+
+#### 指标-工具映射图
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191020110347829.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
+
+#### 工具-指标映射图
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2019102011040022.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQwMjM5OTM=,size_16,color_FFFFFF,t_70)
+
+#### 分析思路
+
+##### 分析的基本过程
+
+a. 先用 free 和 top，查看系统整体的内存使用情况。
+b. 用vmstat及pidstat查看内存变化情况，确定内存问题类型
+c. 详细分析，如内存分配分析、缓存/缓冲区分析、具体进程的内存分析
 
 
