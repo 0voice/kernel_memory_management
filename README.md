@@ -115,6 +115,8 @@ Thank you for your support.
 
 [Virtual Memory in OS: What is, Demand Paging, Advantages](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Virtual%20Memory%20in%20OS:%20What%20is%2C%20Demand%20Paging%2C%20Advantages.md)
 
+[Why Do We Need Virtual Memory](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/Why%20Do%20We%20Need%20Virtual%20Memory%3F.md)
+
 
 
 ----------分割线----------
