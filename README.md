@@ -14,7 +14,7 @@
 
 如果涉及版权侵犯，请邮件至 wchao_isvip@163.com ，我们将第一时间处理。
 
-如果您对我们的项目表示赞同与支持，欢迎您 [lssues](https://github.com/0voice/learning_mind_map/issues) 我们，或者邮件 wchao_isvip@163.com 我们，更加欢迎您 [pull requests](https://github.com/0voice/learning_mind_map/pulls) 加入我们。
+如果您对我们的项目表示赞同与支持，欢迎您 [lssues](https://github.com/0voice/kernel_memory_management/issues) 我们，或者邮件 wchao_isvip@163.com 我们，更加欢迎您 [pull requests](https://github.com/0voice/kernel_memory_management/pulls) 加入我们。
 
 感谢您的支持！
 
@@ -24,7 +24,7 @@ This Repo collects and organizes the whole network Linux kernel -- memory manage
 
 If copyright infringement is involved, please email wchao_isvip@163.com and we will deal with it as soon as possible.
 
-If you agree to our project and support, welcome [lssues](https://github.com/0voice/learning_mind_map/issues), we, or email wchao_isvip@163.com us, More welcome [pull requests](https://github.com/0voice/learning_mind_map/pulls) to join us.
+If you agree to our project and support, welcome [lssues](https://github.com/0voice/kernel_memory_management/issues), we, or email wchao_isvip@163.com us, More welcome [pull requests](https://github.com/0voice/kernel_memory_management/pulls) to join us.
 
 Thank you for your support.
 
