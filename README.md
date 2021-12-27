@@ -159,6 +159,8 @@ Thank you for your support.
 
 [图解 Linux 内存性能优化核心思想](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3%20Linux%20%E5%86%85%E5%AD%98%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%A0%B8%E5%BF%83%E6%80%9D%E6%83%B3.md)
 
+[一文让你看懂内存与CPU之间的关系](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E4%B8%80%E6%96%87%E8%AE%A9%E4%BD%A0%E7%9C%8B%E6%87%82%E5%86%85%E5%AD%98%E4%B8%8ECPU%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB.md)
+
 
 ## 📀 视频
 
