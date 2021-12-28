@@ -194,6 +194,33 @@ Thank you for your support.
 
 [Linux物理内存页面分配---kmalloc|slab/slub|页框分配机制](https://www.bilibili.com/video/BV1QM4y1K75H/)
 
+
+-----西安交通大学内存管理（24讲）提取码1024-----
+
+[背景](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[固定分区分配](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[连续内存分配](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[分页](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[分页硬件和TLB](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[分段管理](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[虚拟内存](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[请求调页](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[页面置换](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[页面置换算法](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[帧分配](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
+[颠簸](https://pan.baidu.com/s/12YqOV0Qm4X76PPvkgJDbsw)
+
 ## ❓ 面试题
 
 - [59问：内存管理](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/59%E9%97%AE%EF%BC%9A%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
