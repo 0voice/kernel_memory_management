@@ -165,6 +165,10 @@ Thank you for your support.
 
 [一文带你了解，虚拟内存、内存分页、分段、段页式内存管理](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%EF%BC%8C%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E3%80%81%E5%86%85%E5%AD%98%E5%88%86%E9%A1%B5%E3%80%81%E5%88%86%E6%AE%B5%E3%80%81%E6%AE%B5%E9%A1%B5%E5%BC%8F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
 
+[深入浅出linux内存管理（一）](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAlinux%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%88%E4%B8%80%EF%BC%89.md)
+
+[深入浅出linux内存管理（二）](https://github.com/0voice/kernel_memory_management/blob/main/%E2%9C%8D%20%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAlinux%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%88%E4%BA%8C%EF%BC%89.md)
+
 
 
 
