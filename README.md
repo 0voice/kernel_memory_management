@@ -204,6 +204,8 @@ Thank you for your support.
 
 [Linux物理内存页面分配---kmalloc|slab/slub|页框分配机制](https://www.bilibili.com/video/BV1QM4y1K75H/)
 
+[Linux内存问题终极探讨---虚拟内存|内存池|内存泄漏|管理组件](https://www.bilibili.com/video/BV1ML4y1E79a/)
+
 
 -----西安交通大学内存管理（24讲）提取码1024-----
 
